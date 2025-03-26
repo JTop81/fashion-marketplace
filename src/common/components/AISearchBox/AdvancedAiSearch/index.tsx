@@ -122,8 +122,6 @@ const AdvancedAiSearch = () => {
       toast.error(
         "A server error occurred while posting the message. Please try again later.",
       );
-
-      // Revert to previous messages if request fails
       if (context?.previousMessages) {
         context.previousMessages.forEach((item) => setMessages(item));
       }
@@ -138,7 +136,7 @@ const AdvancedAiSearch = () => {
 
     let currentSessionId = sessionId;
     if (!currentSessionId) {
-      setIsCreatingSession(true); // Lock session creation
+      setIsCreatingSession(true);
       try {
         const { id } = await createSession();
         setSessionId(id);
@@ -146,7 +144,7 @@ const AdvancedAiSearch = () => {
       } catch (error) {
         toast.error("Failed to create a session. Please try again.");
       } finally {
-        setIsCreatingSession(false); // Unlock session creation
+        setIsCreatingSession(false);
       }
     }
 
@@ -167,13 +165,12 @@ const AdvancedAiSearch = () => {
       });
       mutation.mutate(messageData);
       setNewMessage("");
-      // document.querySelector("input")?.focus();
     }
   };
 
   const getMessagesOnChange = useCallback(async () => {
     try {
-      if (!sessionId || !hasMore) return; // Avoid calling with undefined values
+      if (!sessionId || !hasMore) return;
       const res: IMessages = await getMessages(
         sessionId,
         undefined,
