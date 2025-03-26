@@ -45,14 +45,11 @@ const SavedItems: FC<SavedItemsProps> = ({ userId }) => {
           setHasMore(false);
           return;
         }
-
-        // Only update cursor if this is a user's paginated request
         if (isUser && !isStart) {
           setCursor(response.cursor);
           setHasMore(response.items.length === postLimit);
         }
 
-        // Add the items to the store
         addNewSavedPosts(response.items, response.cursor, isStart);
       } catch (error) {
         console.error("Error fetching saved items:", error);
@@ -70,14 +67,10 @@ const SavedItems: FC<SavedItemsProps> = ({ userId }) => {
       isInitialLoad.current = false;
     }
   }, [userId, fetchSavedItems]);
-
-  // Handle save/unsave events
   useEffect(() => {
     const saveHandler = async (event: Event) => {
       if (event instanceof CustomEvent && userId) {
-        // Clear existing posts before fetching new ones
         clearStoredSavedPosts();
-        // Fetch all saved items fresh
         await fetchSavedItems(userId, true, "", true);
       }
     };
