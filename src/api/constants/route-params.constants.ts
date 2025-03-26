@@ -1,0 +1,14 @@
+export const CHAT_ID_PARAM = "chatId";
+export const ROLE_PARAM = "role";
+export const POST_STATUS = "postStatus";
+export const POST_TYPE = "postType";
+export const POST_ID_PARAM = "postId";
+export const ACTIVITY_ID_PARAM = "activityId";
+export const STORE_ID_PARAM = "storeId";
+export const STORE_POST_PARAM = { filter: { creator_id: { eq: "postId" } } };
+export const USER_ROLE_ID = "userRoleId";
+export const USER_ID_PARAM = "userId";
+export const POST_ID = "postId";
+export const PREFERENCE_ID = "preferenceId";
+export const SESSION_ID = "sessionId";
+export const MESSAGE_ID = "messageId";

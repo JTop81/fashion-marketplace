@@ -1,0 +1,1 @@
+export const PRODUCT_DETAILS_Z_INDEX = 100;

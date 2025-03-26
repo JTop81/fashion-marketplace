@@ -1,0 +1,64 @@
+.seller_post .slick-slide {
+  display: none;
+}
+
+.seller_post .slick-current {
+  display: block;
+}
+
+.seller_post .slick-slider {
+  width: 58.333333% !important;
+  height: 100% !important;
+}
+
+.button__bar_for_seller_post {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 10px;
+  position: absolute;
+  left: 25%;
+  bottom: 10%;
+}
+
+.slick-track {
+  transform: none !important;
+  width: 100% !important;
+}
+
+.button__bar_for_seller_post li {
+  list-style: none;
+  cursor: pointer;
+  display: inline-block;
+  margin: 0 3px;
+  padding: 0;
+}
+
+.button__bar_for_seller_post li button {
+  border: none;
+  background: transparent;
+  border: 1px solid #e6fcff;
+  box-sizing: border-box;
+  width: 19px;
+  height: 19px;
+  color: transparent;
+  cursor: pointer;
+  display: block;
+  border-radius: 10px;
+}
+
+.button__bar_for_seller_post li.slick-active button {
+  background: #f3d8fd;
+}
+
+.button__bar_for_seller_post li button:hover,
+.button__bar_for_seller_post li button:focus {
+  background: #f3d8fd;
+  outline: 0;
+}
+
+@media only screen and (max-width: 1280px) {
+  .button__bar {
+    right: 45%;
+  }
+}

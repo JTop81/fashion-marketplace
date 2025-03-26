@@ -1,0 +1,2836 @@
+{
+  "buyer-customize": {
+    "mylocations": [
+      "New York",
+      "Los Angeles",
+      "Miami",
+      "Chicago",
+      "Houston",
+      "Paris",
+      "Tokyo",
+      "London",
+      "Seattie",
+      "Dubai",
+      "USA",
+      "Germany",
+      "Italy"
+    ],
+    "events": [
+      "Seasonal Sales",
+      "Flash Sales",
+      "Black Friday",
+      "New arrivals",
+      "Trending now",
+      "Private Sales",
+      "Fashion week"
+    ],
+    "sellerfeatures": [
+      "Eco-Friendly",
+      "Organic Materials",
+      "Fair Trade",
+      "Recycled Materials",
+      "Vintage",
+      "Pre-loved",
+      "Uppcycled",
+      "Contemparay",
+      "Bohemian",
+      "Minimalist",
+      "Classic",
+      "Avant-Garde",
+      "Quick Delivery",
+      "Easy-to-communicate",
+      "SMS Available"
+    ],
+    "styles": [
+      "Urban",
+      "Streetwear",
+      "Modern chic",
+      "Cocktail dresses",
+      "Evening Gowns",
+      "Party Wear",
+      "Athleisure",
+      "Everyday Casual",
+      "Weekend Wear",
+      "Business Casual",
+      "Professional",
+      "Office Attire",
+      "Formalwear",
+      "Resort Wear",
+      "Loungwear",
+      "Speciality Wear"
+    ],
+    "occasionalshopping": [
+      "Weddings",
+      "Formal Events",
+      "Weekend Getaways",
+      "Holidays",
+      "Sports Events",
+      "Festivals",
+      "Date nights"
+    ],
+    "materials": [
+      "Cotton",
+      "Leather",
+      "Denim",
+      "Wool",
+      "Silk",
+      "Linen",
+      "Synthetic Blends",
+      "Sustainable Fabric(Bamboom, Hemp)"
+    ],
+    "mysize": [
+      "Avarage",
+      "Petite",
+      "Tall"
+    ]
+  },
+  "seller-customize": {
+    "mylocations": [
+      "New York",
+      "Los Angeles",
+      "Miami",
+      "Chicago",
+      "Houston",
+      "Paris",
+      "Tokyo",
+      "London",
+      "Seattie",
+      "Dubai",
+      "USA",
+      "Germany",
+      "Italy"
+    ],
+    "events": [
+      "Seasonal Sales",
+      "Flash Sales",
+      "Black Friday",
+      "New arrivals",
+      "Trending now",
+      "Private Sales",
+      "Fashion week"
+    ],
+    "sellerfeatures": [
+      "Eco-Friendly",
+      "Organic Materials",
+      "Fair Trade",
+      "Recycled Materials",
+      "Vintage",
+      "Pre-loved",
+      "Uppcycled",
+      "Contemparay",
+      "Bohemian",
+      "Minimalist",
+      "Classic",
+      "Avant-Garde",
+      "Quick Delivery",
+      "Easy-to-communicate",
+      "SMS Available"
+    ],
+    "styles": [
+      "Urban",
+      "Streetwear",
+      "Modern chic",
+      "Cocktail dresses",
+      "Evening Gowns",
+      "Party Wear",
+      "Athleisure",
+      "Everyday Casual",
+      "Weekend Wear",
+      "Business Casual",
+      "Professional",
+      "Office Attire",
+      "Formalwear",
+      "Resort Wear",
+      "Loungwear",
+      "Speciality Wear"
+    ],
+    "occasionalshopping": [
+      "Weddings",
+      "Formal Events",
+      "Weekend Getaways",
+      "Holidays",
+      "Sports Events",
+      "Festivals",
+      "Date nights"
+    ],
+    "materials": [
+      "Cotton",
+      "Leather",
+      "Denim",
+      "Wool",
+      "Silk",
+      "Linen",
+      "Synthetic Blends",
+      "Sustainable Fabric(Bamboom, Hemp)"
+    ],
+    "mysize": [
+      "Avarage",
+      "Petite",
+      "Tall"
+    ]
+  },
+  "products": [
+    {
+      "id": 1,
+      "title": "Incredible Frozen Sausages",
+      "seller": {
+        "name": "Sauer - Howell",
+        "avatar": "https://avatars.githubusercontent.com/u/36660534",
+        "isApproved": true
+      },
+      "mainImage": "https://loremflickr.com/640/480/fashion?lock=5716415814303744",
+      "images": [
+        "https://loremflickr.com/640/480/fashion?lock=5513673397239808",
+        "https://loremflickr.com/640/480/fashion?lock=8044113498734592",
+        "https://loremflickr.com/640/480/fashion?lock=488082908381184"
+      ],
+      "price": "740.00",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "tags": "thalassinus carbo dignissimos",
+      "status": "Returned",
+      "social": {
+        "reactions": 2354,
+        "comments": 2220,
+        "newComments": 1602
+      }
+    },
+    {
+      "id": 2,
+      "title": "Luxurious Soft Gloves",
+      "seller": {
+        "name": "Leuschke Inc",
+        "avatar": "https://avatars.githubusercontent.com/u/83800659",
+        "isApproved": true
+      },
+      "mainImage": "https://loremflickr.com/640/480/fashion?lock=3446768811376640",
+      "images": [
+        "https://loremflickr.com/640/480/fashion?lock=8411980129894400",
+        "https://loremflickr.com/640/480/fashion?lock=139454595465216",
+        "https://loremflickr.com/640/480/fashion?lock=1768940457951232"
+      ],
+      "price": "544.00",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "tags": "valetudo audax conculco",
+      "status": "Returned",
+      "social": {
+        "reactions": 3829,
+        "comments": 3875,
+        "newComments": 4499
+      }
+    },
+    {
+      "id": 3,
+      "title": "Sleek Steel Cheese",
+      "seller": {
+        "name": "Runolfsson, Prosacco and Medhurst",
+        "avatar": "https://avatars.githubusercontent.com/u/5466882",
+        "isApproved": false
+      },
+      "mainImage": "https://loremflickr.com/640/480/fashion?lock=500487157710848",
+      "images": [
+        "https://loremflickr.com/640/480/fashion?lock=2258575359475712",
+        "https://loremflickr.com/640/480/fashion?lock=7471811931406336",
+        "https://loremflickr.com/640/480/fashion?lock=6628968316796928"
+      ],
+      "price": "580.00",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "tags": "vitiosus cetera agnitio",
+      "status": "Sold",
+      "social": {
+        "reactions": 580,
+        "comments": 392,
+        "newComments": 958
+      }
+    },
+    {
+      "id": 4,
+      "title": "Small Cotton Tuna",
+      "seller": {
+        "name": "Ruecker Group",
+        "avatar": "https://avatars.githubusercontent.com/u/10684382",
+        "isApproved": false
+      },
+      "mainImage": "https://loremflickr.com/640/480/fashion?lock=324115923730432",
+      "images": [
+        "https://loremflickr.com/640/480/fashion?lock=728023070408704",
+        "https://loremflickr.com/640/480/fashion?lock=7454472120827904",
+        "https://loremflickr.com/640/480/fashion?lock=4156954989559808"
+      ],
+      "price": "305.00",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "tags": "rem vulnero adeptio",
+      "status": "Draft",
+      "social": {
+        "reactions": 2115,
+        "comments": 3962,
+        "newComments": 1978
+      }
+    },
+    {
+      "id": 5,
+      "title": "Elegant Concrete Chicken",
+      "seller": {
+        "name": "Pfeffer, Schuppe and Emard",
+        "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/129.jpg",
+        "isApproved": false
+      },
+      "mainImage": "https://loremflickr.com/640/480/fashion?lock=3684527700443136",
+      "images": [
+        "https://loremflickr.com/640/480/fashion?lock=6881559342743552",
+        "https://loremflickr.com/640/480/fashion?lock=5861750066905088",
+        "https://loremflickr.com/640/480/fashion?lock=937409443266560"
+      ],
+      "price": "930.00",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "tags": "iusto deleniti conscendo",
+      "status": "Sold",
+      "social": {
+        "reactions": 3113,
+        "comments": 1941,
+        "newComments": 653
+      }
+    }
+  ],
+  "seller-contacts": [
+    {
+      "id": 1,
+      "name": "Morissette, Murphy and Huels",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/474.jpg",
+      "email": "Betsy.Lebsack@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Howell Inc",
+      "avatar": "https://avatars.githubusercontent.com/u/5318875",
+      "email": "Wilfrid_Bailey5@hotmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Lind - Lang",
+      "avatar": "https://avatars.githubusercontent.com/u/73103173",
+      "email": "Brittany.Maggio@yahoo.com"
+    },
+    {
+      "id": 4,
+      "name": "Ledner - Huels",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/498.jpg",
+      "email": "Carmelo_Will77@hotmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Jaskolski, McKenzie and Bednar",
+      "avatar": "https://avatars.githubusercontent.com/u/35248716",
+      "email": "Denis9@yahoo.com"
+    },
+    {
+      "id": 6,
+      "name": "Fritsch - O'Connell",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/713.jpg",
+      "email": "Jeanne_Feeney-Luettgen59@yahoo.com"
+    },
+    {
+      "id": 7,
+      "name": "Emmerich - Carter",
+      "avatar": "https://avatars.githubusercontent.com/u/80900481",
+      "email": "Steve62@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "Lind - Ziemann",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/314.jpg",
+      "email": "Chanel_Batz@yahoo.com"
+    },
+    {
+      "id": 9,
+      "name": "Bashirian and Sons",
+      "avatar": "https://avatars.githubusercontent.com/u/21171422",
+      "email": "Marcelina_Lockman@hotmail.com"
+    },
+    {
+      "id": 10,
+      "name": "Ratke - Runte",
+      "avatar": "https://avatars.githubusercontent.com/u/48261550",
+      "email": "Kamryn.Windler40@gmail.com"
+    }
+  ],
+  "seller-posts": [
+    {
+      "productName": "Fantastic Frozen Ball",
+      "price": "754.00",
+      "discount": "435.00",
+      "ETH": "501.26",
+      "status": "Returned",
+      "description": "Causa ciminatio asporto cornu beatae audeo aegre aperio.",
+      "itemImg": "https://loremflickr.com/640/480/fashion?lock=4756663244423168",
+      "images": [
+        "https://loremflickr.com/640/480/fashion?lock=2482219545264128",
+        "https://loremflickr.com/640/480/fashion?lock=6352726858399744",
+        "https://loremflickr.com/640/480/fashion?lock=7240623864152064"
+      ],
+      "hashContent": "beatae adhuc sortitus volva decretum",
+      "reactions": 2930,
+      "comments": 3030,
+      "newComments": 1929
+    },
+    {
+      "productName": "Elegant Wooden Ball",
+      "price": "439.00",
+      "discount": "400.00",
+      "ETH": "124.65",
+      "status": "Returned",
+      "description": "Aegrus qui cinis.",
+      "itemImg": "https://loremflickr.com/640/480/fashion?lock=2988430231339008",
+      "images": [
+        "https://loremflickr.com/640/480/fashion?lock=1139165060136960",
+        "https://loremflickr.com/640/480/fashion?lock=1231773312745472",
+        "https://loremflickr.com/640/480/fashion?lock=4931898369376256"
+      ],
+      "hashContent": "solvo coruscus cariosus desipio solus",
+      "reactions": 1740,
+      "comments": 59,
+      "newComments": 1598
+    },
+    {
+      "productName": "Incredible Rubber Pants",
+      "price": "986.00",
+      "discount": "204.00",
+      "ETH": "23.84",
+      "status": "Live",
+      "description": "Clibanus fuga sto una vestigium.",
+      "itemImg": "https://loremflickr.com/640/480/fashion?lock=316163445751808",
+      "images": [
+        "https://loremflickr.com/640/480/fashion?lock=6933523363528704",
+        "https://loremflickr.com/640/480/fashion?lock=6409537741389824",
+        "https://loremflickr.com/640/480/fashion?lock=2635660947095552"
+      ],
+      "hashContent": "attollo ut peccatus suasoria ceno",
+      "reactions": 2172,
+      "comments": 1353,
+      "newComments": 2114
+    },
+    {
+      "productName": "Modern Concrete Salad",
+      "price": "157.00",
+      "discount": "555.00",
+      "ETH": "640.12",
+      "status": "Returned",
+      "description": "Deputo totus advenio aut verus.",
+      "itemImg": "https://loremflickr.com/640/480/fashion?lock=7281925517475840",
+      "images": [
+        "https://loremflickr.com/640/480/fashion?lock=1922457204162560",
+        "https://loremflickr.com/640/480/fashion?lock=2949311591612416",
+        "https://loremflickr.com/640/480/fashion?lock=5031628571148288"
+      ],
+      "hashContent": "cena aggredior deporto voluptas abscido",
+      "reactions": 3882,
+      "comments": 1115,
+      "newComments": 386
+    },
+    {
+      "productName": "Fantastic Fresh Shirt",
+      "price": "20.00",
+      "discount": "429.00",
+      "ETH": "183.77",
+      "status": "Returned",
+      "description": "Utique pel reiciendis.",
+      "itemImg": "https://loremflickr.com/640/480/fashion?lock=503237429952512",
+      "images": [
+        "https://loremflickr.com/640/480/fashion?lock=287382525968384",
+        "https://loremflickr.com/640/480/fashion?lock=3906200305401856",
+        "https://loremflickr.com/640/480/fashion?lock=8443240560721920"
+      ],
+      "hashContent": "perferendis cupio vulgaris somnus maiores",
+      "reactions": 1935,
+      "comments": 1831,
+      "newComments": 2206
+    }
+  ],
+  "seller-orders": [
+    {
+      "id": 1,
+      "product": "Electronic Metal Mouse",
+      "soldOn": "2024-08-11",
+      "price": "344.00",
+      "buyerName": "Doug Hessel",
+      "itemImage": "https://loremflickr.com/640/480/fashion?lock=4048696303943680",
+      "status": "in-dispute",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "product": "Rustic Plastic Soap",
+      "soldOn": "2024-06-09",
+      "price": "853.00",
+      "buyerName": "Mack Gerlach",
+      "itemImage": "https://loremflickr.com/640/480/fashion?lock=4604363645386752",
+      "status": "unpaid",
+      "rating": 3
+    },
+    {
+      "id": 3,
+      "product": "Refined Soft Ball",
+      "soldOn": "2024-08-20",
+      "price": "971.00",
+      "buyerName": "Imani West",
+      "itemImage": "https://loremflickr.com/640/480/fashion?lock=1487280487268352",
+      "status": "in-dispute",
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "product": "Awesome Metal Shoes",
+      "soldOn": "2024-06-04",
+      "price": "728.00",
+      "buyerName": "Isadore Treutel",
+      "itemImage": "https://loremflickr.com/640/480/fashion?lock=5105169182228480",
+      "status": "cancelled",
+      "rating": 4
+    },
+    {
+      "id": 5,
+      "product": "Small Wooden Towels",
+      "soldOn": "2024-07-21",
+      "price": "492.00",
+      "buyerName": "Brendon Heaney",
+      "itemImage": "https://loremflickr.com/640/480/fashion?lock=7240704426246144",
+      "status": "unpaid",
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "product": "Ergonomic Cotton Cheese",
+      "soldOn": "2024-07-08",
+      "price": "202.00",
+      "buyerName": "Elmer Mohr",
+      "itemImage": "https://loremflickr.com/640/480/fashion?lock=516142152024064",
+      "status": "completed",
+      "rating": 1
+    },
+    {
+      "id": 7,
+      "product": "Modern Plastic Keyboard",
+      "soldOn": "2024-08-05",
+      "price": "542.00",
+      "buyerName": "Mossie Glover",
+      "itemImage": "https://loremflickr.com/640/480/fashion?lock=7073344870416384",
+      "status": "unpaid",
+      "rating": 5
+    },
+    {
+      "id": 8,
+      "product": "Incredible Granite Bacon",
+      "soldOn": "2024-06-25",
+      "price": "769.00",
+      "buyerName": "Sabryna Emard",
+      "itemImage": "https://loremflickr.com/640/480/fashion?lock=5751630037254144",
+      "status": "in-dispute",
+      "rating": 2
+    },
+    {
+      "id": 9,
+      "product": "Recycled Concrete Pants",
+      "soldOn": "2024-07-23",
+      "price": "937.00",
+      "buyerName": "Jodie McLaughlin",
+      "itemImage": "https://loremflickr.com/640/480/fashion?lock=6654866126536704",
+      "status": "completed",
+      "rating": 3
+    },
+    {
+      "id": 10,
+      "product": "Tasty Frozen Chair",
+      "soldOn": "2024-07-09",
+      "price": "371.00",
+      "buyerName": "Jerome Nicolas",
+      "itemImage": "https://loremflickr.com/640/480/fashion?lock=4956353994948608",
+      "status": "shipped",
+      "rating": 4
+    }
+  ],
+  "boutique-analytics": {
+    "orders": [
+      {
+        "status": "unpaid",
+        "count": 76
+      },
+      {
+        "status": "shipped",
+        "count": 93
+      },
+      {
+        "status": "in-dispute",
+        "count": 0
+      },
+      {
+        "status": "completed",
+        "count": 87
+      },
+      {
+        "status": "cancelled",
+        "count": 83
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "seller-profile-brand-info": {
+    "brandLogo": "https://loremflickr.com/450/450?lock=5942265342066688",
+    "brandName": "Schroeder, Toy and Miller",
+    "brandDescription": "Reduced non-volatile contingency"
+  },
+  "seller-profile-seller-info": {
+    .username: "Dr. Simon Hoppe",
+    "email": "Violette59@gmail.com",
+    "phoneNumber": "+1 (251)-169-5859",
+    "address": "61369 Paxton Fields, New Chelseaport, Arizona 33458-4691, Kuwait"
+  },
+  "seller-profile-categories": {
+    "shoppingEvents": [
+      "Trending now",
+      "Seasonal Sales",
+      "New arrivals"
+    ],
+    "brandFeatures": [
+      "Contemporary",
+      "Eco-Friendly",
+      "Quick Delivery"
+    ],
+    "styleOptions": [
+      "Loungwear",
+      "Office Attire",
+      "Modern chic",
+      "Cocktail dresses"
+    ],
+    "occasionalShopping": [
+      "Festivals"
+    ],
+    "ourMaterials": [
+      "Linen",
+      "Filk"
+    ],
+    "fashionFits": [
+      "Petite",
+      "Avarage"
+    ],
+    "customText": "Allatus thorax abduco collum optio decimus unde."
+  },
+  "store-front": {
+    "id": "5f50c4f7-3655-4f8d-82b9-4b5df58bdb5e",
+    "storeName": "Bode Inc",
+    "storeAvatar": "https://cdn.theatlantic.com/thumbor/W544GIT4l3z8SG-FMUoaKpFLaxE=/0x131:2555x1568/1600x900/media/img/mt/2017/06/shutterstock_319985324/original.jpg",
+    "storeDescription": "The Football Is Good For Training And Recreational Purposes",
+    "storeAddress": "1234 Elm St",
+    "storeWebsites": [
+      {
+        "id": "1",
+        "address": "http://darnell.com",
+        "type": "website"
+      },
+      {
+        "id": "2",
+        "address": "http://gerda.info",
+        "type": "link"
+      },
+      {
+        "id": "3",
+        "address": "http://shyann.com",
+        "type": "website"
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "title": "Green",
+        "imgUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/357.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Second Hand",
+        "imgUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/390.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Contemporary Fashion",
+        "imgUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/980.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Fast Delivery",
+        "imgUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/395.jpg"
+      }
+    ],
+    "analytics": [
+      {
+        "analyticName": "Active Items",
+        "score": "345"
+      },
+      {
+        "analyticName": "Response Time",
+        "score": "1 hour",
+        "trend": true
+      },
+      {
+        "analyticName": "Store Followers",
+        "score": "10.4K",
+        "trend": false
+      },
+      {
+        "analyticName": "Impressions",
+        "score": "123K",
+        "trend": true
+      }
+    ]
+  },
+  "store-front-posts": [
+    {
+      "id": "1",
+      "likes": "120",
+      "views": "1.5K",
+      "comments": "10",
+      "imgUrl": "https://fastly.picsum.photos/id/41/1280/805.jpg?hmac=W9CWeYdlZisqEfhjuODl83T3lCXAqjUZrOe9iMFPYmI"
+    },
+    {
+      "id": "2",
+      "likes": "85",
+      "views": "980",
+      "comments": "7",
+      "imgUrl": "https://fastly.picsum.photos/id/40/4106/2806.jpg?hmac=MY3ra98ut044LaWPEKwZowgydHZ_rZZUuOHrc3mL5mI"
+    },
+    {
+      "id": "3",
+      "likes": "230",
+      "views": "2.3K",
+      "comments": "25",
+      "imgUrl": "https://fastly.picsum.photos/id/47/4272/2848.jpg?hmac=G8dXSLa-ngBieraQt5EORu-4r6tveX3fhvBTZM0Y8xM"
+    },
+    {
+      "id": "4",
+      "likes": "150",
+      "views": "1.1K",
+      "comments": "12",
+      "imgUrl": "https://fastly.picsum.photos/id/45/4592/2576.jpg?hmac=Vc7_kMYufvy96FxocZ1Zx6DR1PNsNQXF4XUw1mZ2dlc"
+    },
+    {
+      "id": "5",
+      "likes": "90",
+      "views": "870",
+      "comments": "5",
+      "imgUrl": "https://fastly.picsum.photos/id/56/2880/1920.jpg?hmac=BIplhYgNZ9bsjPXYhD0xx6M1yPgmg4HtthKkCeJp6Fk"
+    },
+    {
+      "id": "6",
+      "likes": "300",
+      "views": "3.2K",
+      "comments": "30",
+      "imgUrl": "https://fastly.picsum.photos/id/57/367/267.jpg?hmac=ReRy2gXqo7vQAXNw79nisa9GTuAxqLVW3z9CJgYQZ_0"
+    },
+    {
+      "id": "7",
+      "likes": "110",
+      "views": "1K",
+      "comments": "8",
+      "imgUrl": "https://fastly.picsum.photos/id/59/2464/1632.jpg?hmac=uTfe6jCzLvCzANvJgtpo-a0fKhO8BvjpwLNYX3lqx_Q"
+    },
+    {
+      "id": "8",
+      "likes": "220",
+      "views": "2K",
+      "comments": "22",
+      "imgUrl": "https://fastly.picsum.photos/id/58/1280/853.jpg?hmac=YO3QnOm9TpyM5DqsJjoM4CHg8oIq4cMWLpd9ALoP908"
+    },
+    {
+      "id": "9",
+      "likes": "175",
+      "views": "1.6K",
+      "comments": "18",
+      "imgUrl": "https://fastly.picsum.photos/id/68/4608/3072.jpg?hmac=0KfOS12jehkc6HbfMXWj3GMFve9kVs82dYsN12Npn2Y"
+    },
+    {
+      "id": "10",
+      "likes": "95",
+      "views": "930",
+      "comments": "6",
+      "imgUrl": "https://fastly.picsum.photos/id/75/1999/2998.jpg?hmac=0agRZd8c5CRiFvADOWJqfTv6lqYBty3Kw-9LEtLp_98"
+    }
+  ],
+  "seller-profile-earning": {
+    "earning": {
+      "amount": 1045.1,
+      "currency": "USD"
+    },
+    "spending": {
+      "amount": 540,
+      "currency": "USD"
+    }
+  },
+  "seller-profile-available-funds": {
+    "amount": 505,
+    "currency": "USD"
+  },
+  "buyer-profile-shopper-info": {
+    "shopperAvatar": "https://loremflickr.com/450/450?lock=4775573381447680",
+    .username: "Miss Judy Harvey"
+  },
+  "buyer-profile-contact-info": {
+    "email": "Jacinto4@gmail.com",
+    "phoneNumber": "+1 (019)-465-1204"
+  },
+  "buyer-profile-shipping-address": {
+    "shippingAddress": "245 Graham Branch, Windlershire, New York 30694, Comoros"
+  },
+  "buyer-profile-preferences": {
+    "myLocations": [
+      "Trending now",
+      "Houston"
+    ],
+    "events": [
+      "Fashion week",
+      "Black Friday",
+      "New arrivals"
+    ],
+    "sellerFeatures": [
+      "Minimalist",
+      "Quick Delivery",
+      "Eco-Friendly"
+    ],
+    "style": [
+      "Cocktail dresses",
+      "Urban"
+    ],
+    "occasionalShopping": [
+      "Date nights",
+      "Weddings"
+    ],
+    "materials": [
+      "Filk",
+      "Cotton"
+    ],
+    "myFashionFits": [
+      "Petite",
+      "Avarage"
+    ],
+    "customText": "Distinctio eligendi aequitas."
+  },
+  "buyer-profile-category-list": [
+    "All",
+    "My Locations",
+    "Events",
+    "Seller Features",
+    "Styles",
+    "Occasional shopping",
+    "Materials",
+    "My size"
+  ],
+  "chats-fetch-all": [
+    {
+      "id": "uuid1",
+      "author": "Brad Moen",
+      "avatarSrc": "https://avatars.githubusercontent.com/u/2072382",
+      "lastMessage": {
+        "id": "2069c8ca-0501-4da7-a0d5-1e3d98c1184d",
+        "chatId": "uuid1",
+        "author": {
+          "avatar": {
+            "src": "https://avatars.githubusercontent.com/u/2072382"
+          },
+          "name": "Brad Moen"
+        },
+        "messageText": "Commemoro cunctatio deserunt ars laborum temptatio pectus crebro cognomen.",
+        "timeSent": 1724624763789,
+        "status": "unseen"
+      },
+      "status": "active",
+      "unreadMessagesCount": 100
+    },
+    {
+      "id": "uuid2",
+      "author": "Cynthia Sanford",
+      "avatarSrc": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg",
+      "lastMessage": {
+        "id": "1c4df22e-d86d-4d6a-a94d-46d1bcbc70b6",
+        "chatId": "uuid2",
+        "author": {
+          "avatar": {
+            "src": "https://avatars.githubusercontent.com/u/66003130"
+          },
+          "name": "You"
+        },
+        "messageText": "Desidero stella delinquo theca explicabo placeat versus.",
+        "timeSent": 1724637754540,
+        "status": "unseen"
+      },
+      "status": "blocked",
+      "unreadMessagesCount": 40
+    },
+    {
+      "id": "uuid3",
+      "author": "Darla Schumm",
+      "avatarSrc": "https://avatars.githubusercontent.com/u/32769807",
+      "lastMessage": null,
+      "status": "archieved",
+      "unreadMessagesCount": 0
+    }
+  ],
+  "chats-fetch-blocked": [
+    {
+      "id": "uuid2",
+      "author": "Cynthia Sanford",
+      "avatarSrc": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg",
+      "lastMessage": {
+        "id": "1c4df22e-d86d-4d6a-a94d-46d1bcbc70b6",
+        "chatId": "uuid2",
+        "author": {
+          "avatar": {
+            "src": "https://avatars.githubusercontent.com/u/66003130"
+          },
+          "name": "You"
+        },
+        "messageText": "Desidero stella delinquo theca explicabo placeat versus.",
+        "timeSent": 1724637754540,
+        "status": "unseen"
+      },
+      "status": "blocked",
+      "unreadMessagesCount": 40
+    }
+  ],
+  "chats-fetch-archieved": [
+    {
+      "id": "uuid3",
+      "author": "Darla Schumm",
+      "avatarSrc": "https://avatars.githubusercontent.com/u/32769807",
+      "lastMessage": null,
+      "status": "archieved",
+      "unreadMessagesCount": 0
+    }
+  ],
+  "chats-fetch-unread": [
+    {
+      "id": "uuid1",
+      "author": "Brad Moen",
+      "avatarSrc": "https://avatars.githubusercontent.com/u/2072382",
+      "lastMessage": {
+        "id": "2069c8ca-0501-4da7-a0d5-1e3d98c1184d",
+        "chatId": "uuid1",
+        "author": {
+          "avatar": {
+            "src": "https://avatars.githubusercontent.com/u/2072382"
+          },
+          "name": "Brad Moen"
+        },
+        "messageText": "Commemoro cunctatio deserunt ars laborum temptatio pectus crebro cognomen.",
+        "timeSent": 1724624763789,
+        "status": "unseen"
+      },
+      "status": "active",
+      "unreadMessagesCount": 100
+    },
+    {
+      "id": "uuid2",
+      "author": "Cynthia Sanford",
+      "avatarSrc": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg",
+      "lastMessage": {
+        "id": "1c4df22e-d86d-4d6a-a94d-46d1bcbc70b6",
+        "chatId": "uuid2",
+        "author": {
+          "avatar": {
+            "src": "https://avatars.githubusercontent.com/u/66003130"
+          },
+          "name": "You"
+        },
+        "messageText": "Desidero stella delinquo theca explicabo placeat versus.",
+        "timeSent": 1724637754540,
+        "status": "unseen"
+      },
+      "status": "blocked",
+      "unreadMessagesCount": 40
+    }
+  ],
+  "messages-fetch-uuid1": [
+    {
+      "id": "e144e656-762a-4eec-9c9a-5da041a6cb0d",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Concedo aro ipsum consectetur desino.",
+      "timeSent": 1724358814548,
+      "status": "unseen"
+    },
+    {
+      "id": "65b9c01b-e296-4868-b2b8-9332b4f4f892",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Baiulus conforto altus arcus conturbo delectus.",
+      "timeSent": 1724369267507,
+      "status": "unseen"
+    },
+    {
+      "id": "4366f9e5-5d79-4a26-9dc9-efc12e523bd3",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Vallum nulla arbitro taedium.",
+      "timeSent": 1724437958479,
+      "status": "unseen"
+    },
+    {
+      "id": "1206673a-3a0e-49f3-afef-fea09f91176a",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Virga absum pariatur aeneus thymbra deleo decor summa.",
+      "timeSent": 1724390881180,
+      "status": "unseen"
+    },
+    {
+      "id": "3dbac22e-8a53-4e18-85fe-7d13a97ad881",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Ait cubicularis causa decor decor umquam thymbra vinculum earum illum.",
+      "timeSent": 1724389224285,
+      "status": "unseen"
+    },
+    {
+      "id": "3ab9be8b-7f8f-43b6-8c9b-21b1b66a28a4",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Spectaculum aegrus utrimque ultio.",
+      "timeSent": 1724361546514,
+      "status": "unseen"
+    },
+    {
+      "id": "cf026256-81cb-4282-8353-de655d5f99f2",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Vereor coerceo deripio theca harum beatae baiulus tyrannus arma decipio.",
+      "timeSent": 1724380978685,
+      "status": "unseen"
+    },
+    {
+      "id": "d8c6a31c-1b59-41bb-88c4-a09dfbc29e34",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Neque cogo despecto bis teres crudelis aranea cerno vir.",
+      "timeSent": 1724356948828,
+      "status": "unseen"
+    },
+    {
+      "id": "7e37dd6a-3095-42e2-8a74-e1fa98063d07",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Pectus commodi adeo verto.",
+      "timeSent": 1724437657155,
+      "status": "unseen"
+    },
+    {
+      "id": "76a89f15-39a0-426d-904a-4f54947002ab",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Terreo tutamen coruscus balbus comes crux dicta cupressus.",
+      "timeSent": 1724422899032,
+      "status": "unseen"
+    },
+    {
+      "id": "bcaa882c-bf95-4c52-8ccd-5608406951a1",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Campana saepe vulpes uter vivo.",
+      "timeSent": 1724432545379,
+      "status": "unseen"
+    },
+    {
+      "id": "cb3ab7d5-fb06-4abc-8a99-fd5c9a4f8c27",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Testimonium explicabo sperno ut theca bestia.",
+      "timeSent": 1724404221471,
+      "status": "unseen"
+    },
+    {
+      "id": "85647007-a19c-4906-9d74-ad0497cc85dd",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Catena tabesco aperio agnosco crinis cupiditate cilicium strues.",
+      "timeSent": 1724408149949,
+      "status": "unseen"
+    },
+    {
+      "id": "c670c1a4-b2c4-404d-9c79-73132d5461a3",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Venia utroque laudantium confido succedo cui conventus tandem.",
+      "timeSent": 1724363122302,
+      "status": "unseen"
+    },
+    {
+      "id": "00ffc2b7-7780-424b-b5e3-f79d6b34d1f5",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Deleo arbustum patior ipsum.",
+      "timeSent": 1724363142358,
+      "status": "unseen"
+    },
+    {
+      "id": "ed20b8bb-7944-46f3-866f-c68abde59f63",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Amitto somniculosus velum crinis vilitas decet.",
+      "timeSent": 1724374145362,
+      "status": "unseen"
+    },
+    {
+      "id": "1ab82387-9188-447f-872c-5d952299af78",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Audacia veritatis apostolus.",
+      "timeSent": 1724377179586,
+      "status": "unseen"
+    },
+    {
+      "id": "21bff55e-7225-4e04-b691-52590de7d8f9",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Strues amita minus artificiose decet quibusdam.",
+      "timeSent": 1724357722133,
+      "status": "unseen"
+    },
+    {
+      "id": "a3a5d4ec-85ec-4c09-858b-7cdc73e88d2b",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Thymum apparatus curto aestas canis cinis molestias ultra.",
+      "timeSent": 1724375630469,
+      "status": "unseen"
+    },
+    {
+      "id": "7284fedd-938c-48e9-82af-cc3ceefc4f65",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Ducimus cuius cultura calculus causa conicio curto territo caput coma.",
+      "timeSent": 1724411474088,
+      "status": "unseen"
+    },
+    {
+      "id": "7949588d-d6a8-46bc-8147-10a6858b1d63",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Curatio aiunt tabella adinventitias fugiat vel vilis totus capto.",
+      "timeSent": 1724386667301,
+      "status": "unseen"
+    },
+    {
+      "id": "e798d1fc-414a-45d2-80ed-ebbb9a9c34e9",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Totam tardus summa occaecati statua despecto vereor.",
+      "timeSent": 1724399986409,
+      "status": "unseen"
+    },
+    {
+      "id": "35a642bb-99ff-4bbe-bd3d-f5acccce361c",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Creptio numquam veritatis vis demens culpa spes ulciscor.",
+      "timeSent": 1724416877060,
+      "status": "unseen"
+    },
+    {
+      "id": "b8409fcd-66b9-4d09-8fa5-22f68c12eba9",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Toties aperio suffragium earum asporto accusator.",
+      "timeSent": 1724411601602,
+      "status": "unseen"
+    },
+    {
+      "id": "ebcb1605-6afe-4d37-b96f-fe16d63a8f4b",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Apparatus comparo acsi vorago depopulo itaque articulus.",
+      "timeSent": 1724407519500,
+      "status": "unseen"
+    },
+    {
+      "id": "1946d555-111e-43b1-90ef-450246747124",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Adficio campana suppono taceo sursum decretum tyrannus.",
+      "timeSent": 1724526082688,
+      "status": "unseen"
+    },
+    {
+      "id": "225ea31f-ecfd-4206-8b19-5a32aaa95ef0",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Strues ancilla natus sit aveho triduana trans.",
+      "timeSent": 1724464732327,
+      "status": "unseen"
+    },
+    {
+      "id": "d6839557-dfcb-4528-8293-5090d82cefd1",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Somnus calcar audax color aut vesica cruciamentum.",
+      "timeSent": 1724452183776,
+      "status": "unseen"
+    },
+    {
+      "id": "7d722750-480e-4106-a639-75d3487df4e6",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Dedecor cornu victus acsi ter ascit angustus volva cupiditas.",
+      "timeSent": 1724477125486,
+      "status": "unseen"
+    },
+    {
+      "id": "7c5f39f8-f209-4a7f-b27d-04ceaffb54b0",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Teneo advoco ultio delinquo causa id ceno commemoro decumbo.",
+      "timeSent": 1724469058466,
+      "status": "unseen"
+    },
+    {
+      "id": "f7020280-ead7-46fc-b543-bf6968076a47",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Amplus crur velociter viscus totus vestigium odio.",
+      "timeSent": 1724516933486,
+      "status": "unseen"
+    },
+    {
+      "id": "4afe8652-f257-47af-a196-fd4bd2ab17a0",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Absum vix vigor vigilo urbanus rem vinum utroque cui cognomen.",
+      "timeSent": 1724507183713,
+      "status": "unseen"
+    },
+    {
+      "id": "1001a584-36ca-4f77-978e-a56c5e95debe",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Vivo adfectus vomica omnis coepi alioqui subseco contigo nihil stella.",
+      "timeSent": 1724502906456,
+      "status": "unseen"
+    },
+    {
+      "id": "f401cddb-6161-4a19-ae18-0d34bb849950",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Deputo adopto voluptates stella.",
+      "timeSent": 1724476009654,
+      "status": "unseen"
+    },
+    {
+      "id": "f532a19e-534a-488e-bedb-a2bf95cbec9f",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Utilis tepesco varietas tristis eaque sufficio angelus.",
+      "timeSent": 1724459052794,
+      "status": "unseen"
+    },
+    {
+      "id": "3b76cb2e-6755-48b7-b1c3-49cafda36802",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Magnam vulgaris ver argentum.",
+      "timeSent": 1724520214612,
+      "status": "unseen"
+    },
+    {
+      "id": "baf5a71e-748a-4dcb-b553-b3da8781a826",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Vapulus autem terreo tricesimus adflicto paens audeo.",
+      "timeSent": 1724486415546,
+      "status": "unseen"
+    },
+    {
+      "id": "162b9129-badb-47b8-9ce9-5d508521e2f7",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Depraedor iure cruentus bibo comitatus auxilium vorax acies.",
+      "timeSent": 1724462719226,
+      "status": "unseen"
+    },
+    {
+      "id": "1d7fa92e-5134-4e14-8066-fe9add34eb2c",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Quaerat aduro currus voluptatem.",
+      "timeSent": 1724506237952,
+      "status": "unseen"
+    },
+    {
+      "id": "8e43e45a-6d05-4eaa-8702-4f9c38e783f0",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Harum cupio ulciscor crux corona provident.",
+      "timeSent": 1724517724197,
+      "status": "unseen"
+    },
+    {
+      "id": "2c15bbc0-4ec2-4e1c-a289-410a1e29d281",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Despecto valde solium cernuus.",
+      "timeSent": 1724486209152,
+      "status": "unseen"
+    },
+    {
+      "id": "d7a76432-db2e-42dd-864a-4a890819604c",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Communis culpo videlicet cena teres cruciamentum.",
+      "timeSent": 1724485233829,
+      "status": "unseen"
+    },
+    {
+      "id": "88d14480-f1de-4540-9a75-dc24b8ed2b9f",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Caveo amo civis averto bardus vesper cubitum charisma tyrannus cupressus.",
+      "timeSent": 1724512619119,
+      "status": "unseen"
+    },
+    {
+      "id": "6cecd5ec-c7ff-43b9-ae17-55b17685eb33",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Video sursum arma statua tepidus.",
+      "timeSent": 1724476401492,
+      "status": "unseen"
+    },
+    {
+      "id": "8f9da0d6-4432-4784-aee2-3d43e654d3ff",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Sublime arcesso bellum clementia illum.",
+      "timeSent": 1724486597026,
+      "status": "unseen"
+    },
+    {
+      "id": "527a9b3a-8a8e-4f7c-89ca-7a8353f471f1",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Conculco cur in sed abeo tricesimus supellex xiphias esse candidus.",
+      "timeSent": 1724445774258,
+      "status": "unseen"
+    },
+    {
+      "id": "3844263f-58e1-4c68-a4bb-7e42f8605acf",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Aro cohaero amissio auctor super careo libero suadeo.",
+      "timeSent": 1724461007181,
+      "status": "unseen"
+    },
+    {
+      "id": "710b9b5c-d861-47d1-877c-77956b364ee6",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Absens apparatus quo vir laboriosam volaticus dolorum vomer.",
+      "timeSent": 1724442706452,
+      "status": "unseen"
+    },
+    {
+      "id": "08f09a20-d73a-49f4-b6ed-ee91c503dc6b",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Aestus vigor aduro aperiam vitae aperio conservo coadunatio tactus.",
+      "timeSent": 1724450776368,
+      "status": "unseen"
+    },
+    {
+      "id": "041470d4-7d36-4170-81cb-a37f41a9cd5d",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Vilicus amplus verto cultellus caveo aggredior.",
+      "timeSent": 1724488562122,
+      "status": "unseen"
+    },
+    {
+      "id": "0cdf81b9-42ca-4ea5-b499-ae56f77b4388",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Bardus anser creo credo quisquam copia adsidue turbo.",
+      "timeSent": 1724547358789,
+      "status": "unseen"
+    },
+    {
+      "id": "6ecd6057-b4ea-43c1-a2f2-eac4a8ef45dd",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Utique aggredior maxime animadverto colo libero conforto.",
+      "timeSent": 1724571513440,
+      "status": "unseen"
+    },
+    {
+      "id": "a99eb80e-0d7c-4f7e-a28b-8706046e1b38",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Animus cunabula vivo dedecor.",
+      "timeSent": 1724587229125,
+      "status": "unseen"
+    },
+    {
+      "id": "9da629cb-2d10-41c8-b0e0-7583ead495ee",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Adsuesco adimpleo voluntarius commemoro cibus vetus sumptus sit distinctio.",
+      "timeSent": 1724581882367,
+      "status": "unseen"
+    },
+    {
+      "id": "1c74d796-3156-4dc8-a1b9-925a21cbbc68",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Vigilo vorax quaerat socius amplus uxor caritas soleo.",
+      "timeSent": 1724538792987,
+      "status": "unseen"
+    },
+    {
+      "id": "fe41ab34-5b6c-4277-8254-a5a92964e0bf",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Quasi aeneus vigor turpis cupio.",
+      "timeSent": 1724554276729,
+      "status": "unseen"
+    },
+    {
+      "id": "a23fc828-98a7-41c7-bd9f-1cdacc5732ba",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Cervus vorago tempore quisquam perspiciatis acidus taedium aegrus vulnero.",
+      "timeSent": 1724562067864,
+      "status": "unseen"
+    },
+    {
+      "id": "4a6f9814-8428-4f68-8c78-042d0c82c6bb",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Cena iste tardus dolorum decumbo casus atrocitas careo centum.",
+      "timeSent": 1724562295384,
+      "status": "unseen"
+    },
+    {
+      "id": "4dedb3e6-4f17-43d3-bdc3-c794775d5b25",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Volutabrum canonicus subnecto aperiam adsidue.",
+      "timeSent": 1724588833135,
+      "status": "unseen"
+    },
+    {
+      "id": "8ebccbca-f804-4d1e-bf45-c01692ba41bc",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Quos vesica tamquam credo deduco eius cunabula.",
+      "timeSent": 1724599618696,
+      "status": "unseen"
+    },
+    {
+      "id": "d6c3c3dc-d4f7-46ed-89ac-e845a92748b5",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Suasoria aro assentator corona custodia.",
+      "timeSent": 1724588919340,
+      "status": "unseen"
+    },
+    {
+      "id": "9535d290-d5c1-40ea-af43-95bf3af31889",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Tempore solum suppellex appositus coniuratio ventus quisquam appello.",
+      "timeSent": 1724588255065,
+      "status": "unseen"
+    },
+    {
+      "id": "13e5098b-e49b-417c-bed3-ddffaf326fe2",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Praesentium ad condico torqueo voluptatum quibusdam ceno recusandae tempore auctor.",
+      "timeSent": 1724574176566,
+      "status": "unseen"
+    },
+    {
+      "id": "4c6150bc-5461-4bd1-ba5a-3332e390920a",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Bestia talus dolor cedo non culpo.",
+      "timeSent": 1724530762396,
+      "status": "unseen"
+    },
+    {
+      "id": "29187eaa-5d76-44de-8b9c-b4fe6bec45a5",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Congregatio hic bardus voluntarius tepidus.",
+      "timeSent": 1724529693984,
+      "status": "unseen"
+    },
+    {
+      "id": "04307344-25dd-445d-9b3a-f5c9ce9cc756",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Vulpes velit debeo sufficio attonbitus allatus.",
+      "timeSent": 1724562667130,
+      "status": "unseen"
+    },
+    {
+      "id": "0e3ae5dd-5031-49dc-8d77-8d770d7ce2d9",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Antiquus aequus ago verumtamen.",
+      "timeSent": 1724606262672,
+      "status": "unseen"
+    },
+    {
+      "id": "bf6ec822-1069-4e0d-bd08-ee88ac126459",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Curriculum tui voluptatum bellum brevis sulum aperte ratione umquam.",
+      "timeSent": 1724571149046,
+      "status": "unseen"
+    },
+    {
+      "id": "f740d35b-db67-484a-80ce-49582f1eb023",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Derelinquo canis pariatur defessus arbustum asperiores vomica.",
+      "timeSent": 1724540146242,
+      "status": "unseen"
+    },
+    {
+      "id": "e3ae87c7-a8e3-4e20-bfe9-929bbb15fd09",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Excepturi patria dolore solum commodo asperiores.",
+      "timeSent": 1724549484236,
+      "status": "unseen"
+    },
+    {
+      "id": "6f025151-5e17-4e3a-bead-eb066340c37a",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Antea totam terra voluptas ultio dicta ultra copia harum umerus.",
+      "timeSent": 1724537211282,
+      "status": "unseen"
+    },
+    {
+      "id": "53153681-fbfe-4017-b8a9-b76a9cc900ca",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Tenetur delibero tondeo surgo veritas vitiosus delego bonus appono.",
+      "timeSent": 1724546882535,
+      "status": "unseen"
+    },
+    {
+      "id": "22bcda1f-7edb-4e22-94e9-da0e38a53ea1",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Pecus laboriosam angustus argentum comitatus.",
+      "timeSent": 1724600032003,
+      "status": "unseen"
+    },
+    {
+      "id": "fc5314ab-d71e-4a00-a838-57fe28426d96",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Vilis amicitia succurro calculus thermae avaritia valens.",
+      "timeSent": 1724612966750,
+      "status": "unseen"
+    },
+    {
+      "id": "b35bc606-eeaf-49e1-880a-26606ae265f6",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Spectaculum paulatim aegrotatio comptus.",
+      "timeSent": 1724567655981,
+      "status": "unseen"
+    },
+    {
+      "id": "13f9268d-ad12-453b-862a-a39bda464f4b",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Asperiores ipsum vos apostolus tibi decor excepturi appono tabgo canonicus.",
+      "timeSent": 1724663414980,
+      "status": "unseen"
+    },
+    {
+      "id": "233878cb-8ba0-445b-8dcf-103215f7cbe1",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Cunctatio vero capillus temporibus triduana tubineus audax.",
+      "timeSent": 1724626002259,
+      "status": "unseen"
+    },
+    {
+      "id": "dee4e2e3-a6ac-4fa0-af0d-f01f292762b5",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Dedecor timidus delego ea celo vita cunae curso.",
+      "timeSent": 1724616573569,
+      "status": "unseen"
+    },
+    {
+      "id": "7be3f348-a46f-4540-90e2-d91321c3d892",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Subvenio accusamus bis.",
+      "timeSent": 1724638724315,
+      "status": "unseen"
+    },
+    {
+      "id": "3222fd78-9cb7-4373-abc2-c983470adc40",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Doloremque centum volup usitas curiositas temeritas cohors accusamus.",
+      "timeSent": 1724661038244,
+      "status": "unseen"
+    },
+    {
+      "id": "475cd9a9-3b4c-49c8-a55c-f8b7432154bb",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Sumptus abstergo video aperio incidunt vulgaris.",
+      "timeSent": 1724656179266,
+      "status": "unseen"
+    },
+    {
+      "id": "24b50b72-4bdb-4133-b0bd-b5681f372c5e",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Amita ex alius possimus minima vulgus vesica umbra acidus.",
+      "timeSent": 1724677255540,
+      "status": "unseen"
+    },
+    {
+      "id": "c826ab28-82cf-4102-bc1a-188c62c28e74",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Vigilo utrum venio trado temporibus urbs.",
+      "timeSent": 1724643575746,
+      "status": "unseen"
+    },
+    {
+      "id": "25c138be-2b80-4b1e-963c-bf5af78d9a09",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Ad nobis magnam aduro adfero adflicto.",
+      "timeSent": 1724694315534,
+      "status": "unseen"
+    },
+    {
+      "id": "1f3ca763-3b54-4073-8c1b-babdace81d16",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Vos depulso claustrum annus colo atqui circumvenio cribro terra abundans.",
+      "timeSent": 1724644857695,
+      "status": "unseen"
+    },
+    {
+      "id": "870d3eee-f29f-4786-b91b-707f427cca33",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Adulatio comburo cibo cohaero praesentium dapifer.",
+      "timeSent": 1724631025020,
+      "status": "unseen"
+    },
+    {
+      "id": "f7f17e01-26b3-4b51-898b-b4e31d20971e",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Conculco necessitatibus voveo bis clarus supplanto.",
+      "timeSent": 1724681028089,
+      "status": "unseen"
+    },
+    {
+      "id": "0de0c9ed-8236-4930-bd4c-5c7dde6fb8cc",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Confero vesco beneficium cribro conturbo terror vulnero.",
+      "timeSent": 1724686419150,
+      "status": "unseen"
+    },
+    {
+      "id": "39b50d2f-4dbd-487c-9fb3-82b0240dc95e",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Ager demergo carus cimentarius aduro sol.",
+      "timeSent": 1724635544245,
+      "status": "unseen"
+    },
+    {
+      "id": "ad54c013-abfd-4740-aa35-9719179d994b",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Ago a thesaurus.",
+      "timeSent": 1724629739096,
+      "status": "unseen"
+    },
+    {
+      "id": "7eb00206-bf17-4b19-9bc7-e7720d69d703",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Alienus umbra aufero somniculosus quaerat vicinus tribuo celer.",
+      "timeSent": 1724657954344,
+      "status": "unseen"
+    },
+    {
+      "id": "3ec9b8d0-175f-4d88-85e4-519ff4b00ddf",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Ademptio caelum asporto quis tantillus tabesco vado vitium bonus.",
+      "timeSent": 1724700878882,
+      "status": "unseen"
+    },
+    {
+      "id": "2c8f7a14-ca94-41a6-9983-f6bfa312828e",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Advenio derelinquo campana conspergo vinitor.",
+      "timeSent": 1724630448286,
+      "status": "unseen"
+    },
+    {
+      "id": "46fd02b9-b528-41e0-9049-5e45b98176a0",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Depereo vergo barba necessitatibus cornu decretum.",
+      "timeSent": 1724641946070,
+      "status": "unseen"
+    },
+    {
+      "id": "0900e646-ee15-4290-8caf-cf1f2f565390",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Repellendus cupressus saepe sub terreo claudeo clibanus audax sint conduco.",
+      "timeSent": 1724632115628,
+      "status": "unseen"
+    },
+    {
+      "id": "1c6af97e-b5df-4ea8-b846-e9cb59e22c82",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Auctus tempore decerno.",
+      "timeSent": 1724654880407,
+      "status": "unseen"
+    },
+    {
+      "id": "ddbb3d7b-7747-4bb5-9196-1c09545d98b6",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Sum beatus provident aestivus defessus.",
+      "timeSent": 1724664402064,
+      "status": "unseen"
+    },
+    {
+      "id": "40026d7c-e59c-4a11-b1c5-11d25c482106",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Depopulo omnis vestrum adiuvo commemoro.",
+      "timeSent": 1724688301324,
+      "status": "unseen"
+    },
+    {
+      "id": "6bc6b844-a0a9-45fe-b357-44b1dc94b1fc",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Mollitia sto confido benigne expedita baiulus tutis vulgus.",
+      "timeSent": 1724698066897,
+      "status": "unseen"
+    },
+    {
+      "id": "2069c8ca-0501-4da7-a0d5-1e3d98c1184d",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Commemoro cunctatio deserunt ars laborum temptatio pectus crebro cognomen.",
+      "timeSent": 1724624763789,
+      "status": "unseen"
+    }
+  ],
+  "messages-fetch-uuid2": [
+    {
+      "id": "1665db87-21a6-46cb-b6a0-eb0ccc81d05a",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg"
+        },
+        "name": "Cynthia Sanford"
+      },
+      "messageText": "Confugo solitudo alias sed vito.",
+      "timeSent": 1724380851781,
+      "status": "unseen"
+    },
+    {
+      "id": "7ba75604-b164-4391-8843-9fb745a4072f",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Adhuc decumbo arma animadverto cur curso.",
+      "timeSent": 1724392292539,
+      "status": "unseen"
+    },
+    {
+      "id": "bb7d7e7f-99dc-4a90-85e7-736573b57e30",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg"
+        },
+        "name": "Cynthia Sanford"
+      },
+      "messageText": "Suffoco vesper auxilium et.",
+      "timeSent": 1724357825791,
+      "status": "unseen"
+    },
+    {
+      "id": "fc8dcebe-16e9-4f2c-82f0-0a7453418861",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg"
+        },
+        "name": "Cynthia Sanford"
+      },
+      "messageText": "Sollers dignissimos arguo.",
+      "timeSent": 1724360098456,
+      "status": "unseen"
+    },
+    {
+      "id": "4c25bd86-870f-49bf-96c5-6a1421b76606",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg"
+        },
+        "name": "Cynthia Sanford"
+      },
+      "messageText": "Conventus saepe conforto despecto atqui speculum vestrum.",
+      "timeSent": 1724397873829,
+      "status": "unseen"
+    },
+    {
+      "id": "f7b03805-5435-4ea7-99ad-67553b43dfa9",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg"
+        },
+        "name": "Cynthia Sanford"
+      },
+      "messageText": "Amor thesaurus tracto aestus amaritudo.",
+      "timeSent": 1724435089784,
+      "status": "unseen"
+    },
+    {
+      "id": "cf822fa1-9b9a-43b0-b9a1-f831e543f765",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Vigor creptio cohors umerus tam cogo arcus.",
+      "timeSent": 1724415807447,
+      "status": "unseen"
+    },
+    {
+      "id": "4abf3f33-dbdb-44cf-b5ce-13a777bd4140",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Adsum abduco vergo celebrer suscipio apostolus tantillus.",
+      "timeSent": 1724435890343,
+      "status": "unseen"
+    },
+    {
+      "id": "2b01ffd6-7ad8-4557-8567-afc01eead2f1",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Vinitor cultellus sollicito.",
+      "timeSent": 1724408606135,
+      "status": "unseen"
+    },
+    {
+      "id": "34b71666-94b5-4e52-bce5-d2769cfca829",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Spes civitas porro cultura bos eos clarus.",
+      "timeSent": 1724401553130,
+      "status": "unseen"
+    },
+    {
+      "id": "3cfc0085-f6ce-409e-b6e4-a531edfed666",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Cultellus colligo facilis degusto calco accusamus umerus pecto ago.",
+      "timeSent": 1724473281875,
+      "status": "unseen"
+    },
+    {
+      "id": "120dc5d8-dd15-4d08-a974-eac0130cc7a7",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg"
+        },
+        "name": "Cynthia Sanford"
+      },
+      "messageText": "Pauper facilis aeneus vesica porro cribro synagoga numquam sto.",
+      "timeSent": 1724455019253,
+      "status": "unseen"
+    },
+    {
+      "id": "44fc031f-36ac-40b1-b212-489cb6a3b1a9",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg"
+        },
+        "name": "Cynthia Sanford"
+      },
+      "messageText": "Conventus ad comptus volva amor capitulus dolorem.",
+      "timeSent": 1724493054767,
+      "status": "unseen"
+    },
+    {
+      "id": "12c4ed09-354b-40a2-8776-489add351ad1",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Avaritia alius ocer vilis vestrum sopor tricesimus.",
+      "timeSent": 1724494247511,
+      "status": "unseen"
+    },
+    {
+      "id": "1cbbf47f-1e0f-413c-b53f-0d4eaf56bda1",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Ulterius contego deduco articulus turpis victus claudeo voveo paulatim.",
+      "timeSent": 1724444811350,
+      "status": "unseen"
+    },
+    {
+      "id": "2ff61544-b570-4034-9de9-2d47b6948858",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg"
+        },
+        "name": "Cynthia Sanford"
+      },
+      "messageText": "Repellat contabesco cunae dolorum cruciamentum consequatur.",
+      "timeSent": 1724526643022,
+      "status": "unseen"
+    },
+    {
+      "id": "0a24ba8a-e307-4805-89dd-cca68712f7e9",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg"
+        },
+        "name": "Cynthia Sanford"
+      },
+      "messageText": "Tonsor testimonium censura.",
+      "timeSent": 1724494077781,
+      "status": "unseen"
+    },
+    {
+      "id": "c74d7aec-b04c-4d9d-a10a-be4ea8d266ab",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg"
+        },
+        "name": "Cynthia Sanford"
+      },
+      "messageText": "Quos celer demitto addo eaque ademptio denique pel tantillus.",
+      "timeSent": 1724498504781,
+      "status": "unseen"
+    },
+    {
+      "id": "2ff0da2f-89ec-4097-8450-20d7c33e79f7",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg"
+        },
+        "name": "Cynthia Sanford"
+      },
+      "messageText": "Virtus civis turba quia somniculosus cupio claro deprecator clamo.",
+      "timeSent": 1724447985468,
+      "status": "unseen"
+    },
+    {
+      "id": "134e382b-0b8e-4e6a-88be-fe7fd0ccd506",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg"
+        },
+        "name": "Cynthia Sanford"
+      },
+      "messageText": "Acer tenus taedium terga timidus curo iure adamo accendo.",
+      "timeSent": 1724479176005,
+      "status": "unseen"
+    },
+    {
+      "id": "0e384da4-81d9-4b8e-be5f-4ed79960c5c2",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Coerceo aufero accedo utor cupiditate cognomen cohibeo vigor.",
+      "timeSent": 1724561571493,
+      "status": "unseen"
+    },
+    {
+      "id": "744046da-3717-40ba-b403-294c6ff2d2a4",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg"
+        },
+        "name": "Cynthia Sanford"
+      },
+      "messageText": "Stella arbustum crastinus defluo congregatio vulpes vinculum.",
+      "timeSent": 1724603871753,
+      "status": "unseen"
+    },
+    {
+      "id": "d1ef26dc-caff-4045-8839-4739c5cbe45b",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Sum audentia tepesco suasoria aveho depono bestia averto.",
+      "timeSent": 1724610155372,
+      "status": "unseen"
+    },
+    {
+      "id": "b0b6d5c6-46c1-4c95-9a66-062455044366",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg"
+        },
+        "name": "Cynthia Sanford"
+      },
+      "messageText": "Cognomen asperiores allatus tabgo totam error desidero.",
+      "timeSent": 1724611180492,
+      "status": "unseen"
+    },
+    {
+      "id": "239248d9-5e54-4962-81af-319ae7825cc7",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Ulciscor expedita corrigo.",
+      "timeSent": 1724561738734,
+      "status": "unseen"
+    },
+    {
+      "id": "2c7f6140-2112-4dfa-bdc5-075d5c947847",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Arca territo amita.",
+      "timeSent": 1724529341064,
+      "status": "unseen"
+    },
+    {
+      "id": "3a47c3ef-f61b-4ab0-a7a6-fbf92ca75c74",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Cetera torqueo viscus.",
+      "timeSent": 1724577478265,
+      "status": "unseen"
+    },
+    {
+      "id": "190d4ec9-4666-46a7-bdb9-2480548cf37c",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Ocer civis dedico quidem repellat vicinus agnitio ter.",
+      "timeSent": 1724562079465,
+      "status": "unseen"
+    },
+    {
+      "id": "d5444d92-ca9f-4d25-9e66-b52da8e9697c",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg"
+        },
+        "name": "Cynthia Sanford"
+      },
+      "messageText": "Ex toties quisquam triumphus umbra admoneo porro.",
+      "timeSent": 1724560831456,
+      "status": "unseen"
+    },
+    {
+      "id": "a8c1ea20-ae4a-4e21-a09b-5a8ef77f3337",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg"
+        },
+        "name": "Cynthia Sanford"
+      },
+      "messageText": "Volaticus cohors vacuus theca stabilis laborum bardus creptio timor.",
+      "timeSent": 1724570181455,
+      "status": "unseen"
+    },
+    {
+      "id": "9c1071e5-d083-4e24-a617-01dbf75fbb76",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg"
+        },
+        "name": "Cynthia Sanford"
+      },
+      "messageText": "Bene tutamen commodo.",
+      "timeSent": 1724615352731,
+      "status": "unseen"
+    },
+    {
+      "id": "34876bf9-32b7-4d31-88f5-5522cd6d682c",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg"
+        },
+        "name": "Cynthia Sanford"
+      },
+      "messageText": "Socius angelus beneficium tribuo cruentus adipisci textus venio tribuo conculco.",
+      "timeSent": 1724679206369,
+      "status": "unseen"
+    },
+    {
+      "id": "4fd7ab21-fd1c-49bd-82f9-29492401e20f",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Tactus quam decumbo acceptus verbera sub.",
+      "timeSent": 1724627935876,
+      "status": "unseen"
+    },
+    {
+      "id": "a36d9583-7710-463d-9b9d-db8d60e45d0d",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg"
+        },
+        "name": "Cynthia Sanford"
+      },
+      "messageText": "Maiores itaque libero nam soleo vester umbra.",
+      "timeSent": 1724670923077,
+      "status": "unseen"
+    },
+    {
+      "id": "573f0602-355c-4153-8ef3-e1fe2d572fce",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Corrigo canto conforto magni thymbra amplus acerbitas.",
+      "timeSent": 1724624930664,
+      "status": "unseen"
+    },
+    {
+      "id": "517ba110-322a-4759-ab1b-c948b1939469",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg"
+        },
+        "name": "Cynthia Sanford"
+      },
+      "messageText": "Tenuis tamquam textus velut tenetur vicissitudo cubo conturbo.",
+      "timeSent": 1724672522533,
+      "status": "unseen"
+    },
+    {
+      "id": "7155bff5-e48d-4447-88bd-40432f89d127",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg"
+        },
+        "name": "Cynthia Sanford"
+      },
+      "messageText": "Corrupti abscido tamisium aequus.",
+      "timeSent": 1724672241738,
+      "status": "unseen"
+    },
+    {
+      "id": "10371242-f810-4087-a4ba-a9482e9c9682",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg"
+        },
+        "name": "Cynthia Sanford"
+      },
+      "messageText": "Patruus eligendi thesaurus.",
+      "timeSent": 1724646233027,
+      "status": "unseen"
+    },
+    {
+      "id": "6f8f3386-a580-4b1f-9a14-050831bcbdb5",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Sustineo appositus custodia.",
+      "timeSent": 1724677404529,
+      "status": "unseen"
+    },
+    {
+      "id": "1c4df22e-d86d-4d6a-a94d-46d1bcbc70b6",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Desidero stella delinquo theca explicabo placeat versus.",
+      "timeSent": 1724637754540,
+      "status": "unseen"
+    }
+  ],
+  "messages-fetch-uuid3": [],
+  "chats-fetch-uuid1": {
+    "id": "uuid1",
+    "author": "Brad Moen",
+    "avatarSrc": "https://avatars.githubusercontent.com/u/2072382",
+    "lastMessage": {
+      "id": "2069c8ca-0501-4da7-a0d5-1e3d98c1184d",
+      "chatId": "uuid1",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/2072382"
+        },
+        "name": "Brad Moen"
+      },
+      "messageText": "Commemoro cunctatio deserunt ars laborum temptatio pectus crebro cognomen.",
+      "timeSent": 1724624763789,
+      "status": "unseen"
+    },
+    "status": "active",
+    "unreadMessagesCount": 100
+  },
+  "chats-fetch-uuid2": {
+    "id": "uuid2",
+    "author": "Cynthia Sanford",
+    "avatarSrc": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg",
+    "lastMessage": {
+      "id": "1c4df22e-d86d-4d6a-a94d-46d1bcbc70b6",
+      "chatId": "uuid2",
+      "author": {
+        "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/66003130"
+        },
+        "name": "You"
+      },
+      "messageText": "Desidero stella delinquo theca explicabo placeat versus.",
+      "timeSent": 1724637754540,
+      "status": "unseen"
+    },
+    "status": "blocked",
+    "unreadMessagesCount": 40
+  },
+  "chats-fetch-uuid3": {
+    "id": "uuid3",
+    "author": "Darla Schumm",
+    "avatarSrc": "https://avatars.githubusercontent.com/u/32769807",
+    "lastMessage": null,
+    "status": "archieved",
+    "unreadMessagesCount": 0
+  }
+}

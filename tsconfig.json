@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": false,
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "baseUrl": "src",
+    "declaration": true,
+    "declarationDir": "./build/types",
+    "sourceMap": true
+  },
+  "include": ["src/**/*.ts", "src/**/*.tsx", "src/mock-db/db.js"],
+  "exclude": ["node_modules", "build"],
+  "watchOptions": {
+    "excludeFiles": [
+      "./src/mock-db/db.json",
+      "./src/mock-db/socket.js",
+      "./src/mock-db/socket.ts"
+    ]
+  }
+}
