@@ -89,9 +89,9 @@ export const BuyerDetailsMultiStepForm: React.FC<MultiStepFormProps> = ({
               await attachRoleToUser(user?.id ?? "", data)
                 .then(async (res) => {
                   const user: IUser = {
-                    ...res.user, // Spread user properties from res.user directly into mappedUser
+                    ...res.user,
                     assigned_role: {
-                      ...res.role, // Spread role properties from res.role directly into assigned_role
+                      ...res.role,
                     },
                     avatar: res.avatar,
                     user_role: {
@@ -104,7 +104,7 @@ export const BuyerDetailsMultiStepForm: React.FC<MultiStepFormProps> = ({
                       updated_at: res.updated_at,
                       created_at: res.created_at,
                       role: {
-                        ...res.role, // Spread role properties here again if required
+                        ...res.role,
                       },
                     },
                   };
