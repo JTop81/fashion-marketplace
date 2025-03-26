@@ -41,7 +41,6 @@ const ProductDetail: React.FC<ProductDetailProps> = ({
 }) => {
   return (
     <div className="flex flex-col w-full">
-      {/* Header */}
       <div className="flex items-center justify-between mb-6">
         <h3 className="text-xl font-semibold text-text-primary">Buy Now</h3>
         <button
@@ -55,9 +54,7 @@ const ProductDetail: React.FC<ProductDetailProps> = ({
       <PopupStepperComponents currentStep={currentStep} />
 
       <div className="flex gap-8 mt-8">
-        {/* Left Section */}
         <div className="flex-1">
-          {/* Selected Item */}
           <div className="mb-8">
             <p className="text-sm font-medium text-text-primary mb-4">
               Selected Item
