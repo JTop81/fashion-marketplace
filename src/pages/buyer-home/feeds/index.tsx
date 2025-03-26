@@ -54,7 +54,6 @@ const isValidPost = (post: IPost): boolean => {
     if (!(field in post)) return false;
   }
 
-  // Check if details exist and have title
   if (!post.details?.title) return false;
 
   return true;
@@ -117,19 +116,15 @@ const BuyerFeeds = () => {
         if (params.ai_search_message_id) {
           const posts: IPost[] =
             newPosts.items?.flatMap((feed: IFeedResponse) => feed.post) ?? [];
-          // Filter out invalid posts before adding them
           const validPosts = posts.filter(isValidPost);
           addNewPosts(validPosts, lastUpdated ? lastUpdated : "");
         } else {
-          // Filter out invalid posts before adding them
           const validPosts = newPosts.item.filter(isValidPost);
           addNewPosts(validPosts, lastUpdated ? lastUpdated : "");
         }
 
         setCursor(lastUpdated);
         setHasMore(newPosts.item.length === postLimit);
-
-        // Pre-fetch comments
         Promise.all(
           newPosts.item.map(async (post: any) => {
             const comments = await getActivities({
@@ -147,8 +142,6 @@ const BuyerFeeds = () => {
     },
     [addNewPosts, params.ai_search_message_id, queryClient, isLoading],
   );
-
-  // Reset posts when ai_search_message_id changes
   useEffect(() => {
     if (params.ai_search_message_id) {
       setCursor("");
@@ -156,15 +149,11 @@ const BuyerFeeds = () => {
       setHasMore(true);
     }
   }, [params.ai_search_message_id, setPosts]);
-
-  // Initial fetch
   useEffect(() => {
     if (!cursor || cursor === "") {
       fetchPosts();
     }
   }, [cursor, fetchPosts]);
-
-  // Infinite scroll handling
   const handleObserver = useCallback(
     (entries: IntersectionObserverEntry[]) => {
       const target = entries[0];
