@@ -18,7 +18,6 @@ const useChatStore = create<ChatStore>((set) => ({
   chats: [],
   currentChat: null,
   async fetchChats() {
-    // TODO: update to fetch chats by status
     const chats = await getChats(ChatCategory.ALL);
     set({ chats });
   },
@@ -46,16 +45,8 @@ const useChatStore = create<ChatStore>((set) => ({
     }
   },
   deleteChat(_: string) {
-    // const updatedChats = get().chats.filter(chat => chat.id !== chatId);
-    // set({ chats: updatedChats });
   },
   createChat(receiverId: string) {
-    // When use receiverId, must remove console
-    console.log("will remove", receiverId);
-    // Implement logic to create a new chat
-    // Example:
-    // const newChat = await createChatAPI(name);
-    // get().fetchChats();
   },
 }));
 
