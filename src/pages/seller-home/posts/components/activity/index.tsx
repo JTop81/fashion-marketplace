@@ -27,7 +27,6 @@ const ActivityList: React.FC<ActivityListProps> = ({
   );
 };
 
-// Add PropTypes for validation
 ActivityList.propTypes = {
   description: PropTypes.string.isRequired,
   numberofUpdate: PropTypes.number.isRequired,

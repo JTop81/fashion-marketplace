@@ -53,7 +53,6 @@ const PostModal: React.FC<IPostModalProps> = ({ setIsModalOpen }) => {
         className="flex relative w-[96%] px-8 py-6 md:w-[580px] mx-auto h-fit flex-col rounded-2xl flex-shrink-0 bg-white shadow-xl"
       >
         <div className="w-full">
-          {/* Header */}
           <div className="flex justify-between items-center mb-6">
             <h1 className="text-2xl font-semibold text-gray-800">
               Create a Post
@@ -70,8 +69,6 @@ const PostModal: React.FC<IPostModalProps> = ({ setIsModalOpen }) => {
           <p className="text-gray-500 text-sm mb-8">
             Choose the type of post you want to create
           </p>
-
-          {/* Options Grid */}
           <div className="grid grid-cols-2 gap-4">
             {CreatePostOptions.map((item, index) => (
               <button
@@ -91,7 +88,6 @@ const PostModal: React.FC<IPostModalProps> = ({ setIsModalOpen }) => {
                 </div>
               </button>
             ))}
-            {/* Empty tile to maintain 2x2 grid */}
             <div className="rounded-xl border border-dashed border-gray-200"></div>
           </div>
         </div>
